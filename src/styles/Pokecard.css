@@ -1,0 +1,12 @@
+.container {
+  background-color: lightgray;
+  width: 200px;
+  margin: 20px;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.cardName {
+  color: blue;
+  font-size: 20px;
+}
